@@ -1,0 +1,10 @@
+1573397450913	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLayM3r"
+Running Firefox as root in a regular user's session is not supported.  ($XAUTHORITY is /home/chesonsbhuang/.Xauthority which is owned by chesonsbhuang.)
+1573397525464	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUJMNcD"
+Running Firefox as root in a regular user's session is not supported.  ($XAUTHORITY is /home/chesonsbhuang/.Xauthority which is owned by chesonsbhuang.)
+1573484747094	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSbn1pn"
+Running Firefox as root in a regular user's session is not supported.  ($XAUTHORITY is /home/chesonsbhuang/.Xauthority which is owned by chesonsbhuang.)
+1573484854045	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQ1C9F0"
+Running Firefox as root in a regular user's session is not supported.  ($XAUTHORITY is /home/chesonsbhuang/.Xauthority which is owned by chesonsbhuang.)
+1573485047607	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNExfrW"
+Running Firefox as root in a regular user's session is not supported.  ($XAUTHORITY is /home/chesonsbhuang/.Xauthority which is owned by chesonsbhuang.)
